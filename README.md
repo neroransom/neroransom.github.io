@@ -1,2 +1,2 @@
 # neroransom.github.io
-《朝花撷思》的备份
+本倉庫為「朝花擷思」的备份。
